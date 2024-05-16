@@ -1,5 +1,6 @@
-h1, h2, p, span {
-  margin-bottom: 5px;
+h1, h2, span {
+  margin-bottom: 0px;
+  margin-top: 10px;
 }
 
 .main-text {
