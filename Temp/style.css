@@ -1,0 +1,17 @@
+h1, h2, span {
+  margin-bottom: 0px;
+  margin-top: 10px;
+}
+
+.main-text {
+  margin-top: 0px;
+}
+
+ul {
+  margin-top: 5px;
+}
+
+span.icon {
+  margin-right: 5px;
+  margin-left: 10px;
+}
